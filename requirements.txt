@@ -1,0 +1,36 @@
+# Graph Database
+neo4j
+neo4j-graphrag
+
+# LLM & Embeddings
+google-genai
+langchain
+langchain-neo4j
+langchain-google-genai
+langchain-community
+
+# PDF Processing
+# pymupdf==1.24.10
+
+# Text Processing
+tiktoken
+sentence-transformers
+
+# Web Framework
+streamlit
+plotly
+pandas
+
+# Spaced Repetition
+fsrs
+
+# Utilities
+python-dotenv
+tqdm
+# numpy
+pydantic
+
+# Development
+pytest
+jupyter
+black
